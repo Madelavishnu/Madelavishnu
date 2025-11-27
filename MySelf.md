@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello There 🖐️,
+#### My Self Madela VishnuSai Teja , Current;y I'm Pursing Artifical Intelligence and Machine Learning , Passionate About The Technology 
+
 
 <!--
 **Madelavishnu/Madelavishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
